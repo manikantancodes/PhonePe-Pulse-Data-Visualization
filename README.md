@@ -11,7 +11,7 @@ This project aims to visualize and explore data related to PhonePe, India's lead
 
 ## Prerequisites
 
-- Python 3.x
+- Python
 - PostgreSQL (with the appropriate database and tables set up)
 
 ## Installation
